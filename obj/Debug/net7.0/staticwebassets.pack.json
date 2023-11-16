@@ -8469,6 +8469,10 @@
       "PackagePath": "staticwebassets\\fontawesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
+      "Id": "C:\\Users\\MUHAMMAD SAIDU ABDUL\\source\\repos\\ECommerce\\ECommerce\\wwwroot\\images\\patio.jpg",
+      "PackagePath": "staticwebassets\\images\\patio.jpg"
+    },
+    {
       "Id": "C:\\Users\\MUHAMMAD SAIDU ABDUL\\source\\repos\\ECommerce\\ECommerce\\wwwroot\\images\\product\\05a906c1-f92b-478b-bd20-aa6ef378bd70.jpg",
       "PackagePath": "staticwebassets\\images\\product\\05a906c1-f92b-478b-bd20-aa6ef378bd70.jpg"
     },
@@ -8747,6 +8751,10 @@
     {
       "Id": "C:\\Users\\MUHAMMAD SAIDU ABDUL\\source\\repos\\ECommerce\\ECommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\MUHAMMAD SAIDU ABDUL\\source\\repos\\ECommerce\\ECommerce\\wwwroot\\templates\\Inquiry.html",
+      "PackagePath": "staticwebassets\\templates\\Inquiry.html"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ECommerce.Microsoft.AspNetCore.StaticWebAssets.props",

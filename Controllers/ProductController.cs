@@ -2,6 +2,7 @@
 using ECommerce.Models;
 using ECommerce.Models.ViewModels;
 using Humanizer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +10,7 @@ using NuGet.Packaging.Signing;
 
 namespace ECommerce.Controllers
 {
+    [Authorize(Roles=WC.AdminRole)]
     public class ProductController : Controller
     {
         private readonly ApplicationDbContext _db;
